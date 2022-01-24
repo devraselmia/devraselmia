@@ -15,7 +15,7 @@
 ## ⚡ My Statistics
 
 <a href="https://github.com/devraselmia">
-    <img alt="Saifullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devraselmia&custom_title=devraselmia's%20Contribution%20Graph&theme=nord" />
+    <img alt="Rasel mia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devraselmia&custom_title=devraselmia's%20Contribution%20Graph&theme=nord" />
 </a>
 
 <br/>
@@ -69,6 +69,11 @@
       <tr>
 	      <td><a href="https://github.com/devraselmia/indeat-food-delivery-template-tailwindcss"><b> Indeat Food Delivery</b></a></td>
         <td><img alt="Stars" src="https://github.com/devraselmia/Coventic-Webpage"/></td>
+	      <td><img alt="Stars" src="https://img.shields.io/github/stars/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme?style=flat-square"/></td> 
       <tr>
       <tr>
 	      <td><a href="https://github.com/saifullahsiddique/xisen-multipurpose-agency-wordpress-theme"><b>Xisen - Agency WordPress Theme</b></a></td>
