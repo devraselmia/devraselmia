@@ -19,14 +19,6 @@
 </a>
 
 <br/>
-<p align="left">
-  <a href="https://github.com/devraselmia">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devraselmia
-&show_icons=true&theme=nord&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devraselmia
-&theme=nord&hide_border=true" />
-  </a>
-</p>
 
 
 *Languages I have used*
